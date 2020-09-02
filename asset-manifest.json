@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/commath-tic-tac-toe/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/commath-tic-tac-toe/static/js/main.abe24a17.chunk.js",
+    "main.js.map": "/commath-tic-tac-toe/static/js/main.abe24a17.chunk.js.map",
+    "runtime-main.js": "/commath-tic-tac-toe/static/js/runtime-main.f282ad86.js",
+    "runtime-main.js.map": "/commath-tic-tac-toe/static/js/runtime-main.f282ad86.js.map",
+    "static/js/2.a2c56392.chunk.js": "/commath-tic-tac-toe/static/js/2.a2c56392.chunk.js",
+    "static/js/2.a2c56392.chunk.js.map": "/commath-tic-tac-toe/static/js/2.a2c56392.chunk.js.map",
+    "index.html": "/commath-tic-tac-toe/index.html",
+    "precache-manifest.241e78b6bacb58d481b6233cd1e3909f.js": "/commath-tic-tac-toe/precache-manifest.241e78b6bacb58d481b6233cd1e3909f.js",
+    "service-worker.js": "/commath-tic-tac-toe/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/commath-tic-tac-toe/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.a2c56392.chunk.js.LICENSE.txt": "/commath-tic-tac-toe/static/js/2.a2c56392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f282ad86.js",
+    "static/js/2.a2c56392.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.abe24a17.chunk.js"
+  ]
+}
